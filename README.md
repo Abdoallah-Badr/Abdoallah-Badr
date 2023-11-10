@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdoallah Badr
 - 👀 I’m interested in Web development
 - 🌱 I’m currently looking for a job as a junior frontend developer 👈
-- ✨ this is my resume [Link](https://drive.google.com/file/d/1wIZjm_LulZIbrUDEn9k1AD3u1phqKcmz/view)
+- ✨ this is my resume [Link](https://drive.google.com/file/d/1CCKw-llcwhTEXkAjq7yoA84fgyiDQc_k/view?usp=sharing)
 
 
 <!---
